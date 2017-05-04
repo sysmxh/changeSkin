@@ -13,7 +13,6 @@ static SkinStyle _style;
 @implementation Skin
 + (void)changeStyle:(SkinStyle)style
 {
-    
     _style = style;
 }
 +(SkinStyle)currentStyle
